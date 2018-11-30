@@ -4,10 +4,13 @@ What is the purpose of this repo?
 <br>
 It's to collect wallpapers and share them with all your friends and also the world!
 <br>
+# Viewing wallpapers
+Just find a category/series you like and go in that folder and select a picture to view.
 <br>
+# Downloading this repo
+Hit the button that says "Clone or download" at the top of the page and unzip the zip file and follow the same steps as above.
 <br>
 # So how can you add to this repository?
-<br>
 Step 1:
 <br>
 Make a github account. You can do that [here](https://github.com/join)
