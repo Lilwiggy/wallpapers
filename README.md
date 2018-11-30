@@ -25,6 +25,8 @@ Step 3:
 <br>
 If you don't see a folder for the style/genre/series of your wallpaper, make one.
 <br>
+If your wallpaper is for a phone add a folder named "mobile" if none exists and add them to that.
+<br>
 After that if your wallpaper contains spoilers for a series make a folder labled "spoilers" in the folder for that series and add the wallpapers in that.
 <br>
 Otherwise if there is a folder for your style/genre/series then add your wallpapers there. The same spoiler rule applies.
