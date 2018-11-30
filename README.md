@@ -4,7 +4,9 @@ What is the purpose of this repo?
 <br>
 It's to collect wallpapers and share them with all your friends and also the world!
 <br>
-So how can you add to this repository?
+<br>
+<br>
+# So how can you add to this repository?
 <br>
 Step 1:
 <br>
