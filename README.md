@@ -1,4 +1,4 @@
-# ??? Wallpapers
+# 🖼️ Wallpapers
 
 What is the purpose of this repo?
 <br>
